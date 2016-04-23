@@ -1,7 +1,7 @@
 name: remarkable
 favicon: null
 layout_spectrum: 0.403707901481539
-typography_spectrum: 0.9310475243255496
+typography_spectrum: 0.50752
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.8620099551044405
+  brandStrength: 0.5
   lightness: 0.10733509063720703
   saturation: 0.4028655788861215
   rhythmicContrast: 0.6412872613873333
