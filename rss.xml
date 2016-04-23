@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[remarkable]]></title>
+        <description><![CDATA[remarkable]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 23 Apr 2016 17:21:25 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How does a product become successful?]]></title>
+            <description><![CDATA[<article><h1>How does a product become successful?</h1><p>1.Understand the urgency of the situation. Half-measures simply won't do. The only way to grow is to abandon your strategy of doing what you did yesterday, but better. Commit.</p></article>]]></description>
+            <link>undefinedhow-does-a-product-become-successful/index.html</link>
+            <guid isPermaLink="false">0910e196-dbdc-4469-9b6e-6c51de166c03</guid>
+            <pubDate>Sat, 23 Apr 2016 17:21:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
